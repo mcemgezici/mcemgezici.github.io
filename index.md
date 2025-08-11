@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Anasayfa
+title: Mustafa Cem Gezici
 ---
 
-# Mustafa Cem Gezici
+# Anasayfa
 _Global History & History & Economics — R · QGIS · Archival Research_
 
 - [CV (PDF)](cv.pdf){:target="_blank" rel="noopener"}
