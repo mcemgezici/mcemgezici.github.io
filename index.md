@@ -3,7 +3,7 @@ layout: default
 title: Mustafa Cem Gezici
 ---
 
-# Anasayfa
+# Main Page
 _Global History & History & Economics — R · QGIS · Archival Research_
 
 - [CV (PDF)](cv.pdf){:target="_blank" rel="noopener"}
@@ -11,8 +11,8 @@ _Global History & History & Economics — R · QGIS · Archival Research_
 - [GitHub](https://github.com/mcemgezici){:target="_blank" rel="noopener"}
 - [E-posta](mailto:mustafacemgezici@windowslive.com)
 
-## Hakkımda
-Ekonomik tarih odaklı yüksek lisans öğrencisiyim. Nicel (R, panel, görselleştirme) ve nitel (arşiv) yöntemleri birlikte kullanıyorum; QGIS ile tarihsel haritalama yapıyorum.
+## About me
+I am a master's student focusing on economic history. I use both quantitative (R, panel, visualisation) and qualitative (archival) methods; I do historical mapping with QGIS.
 
-## Çıktılar
-- CV ve posterime yukarıdaki bağlantılardan erişebilirsiniz.
+## Outputs
+- You can access my CV and poster via the links above.
