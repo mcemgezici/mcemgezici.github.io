@@ -3,7 +3,7 @@ layout: default
 title: Mustafa Cem Gezici
 ---
 
-# Main Page
+# Links
 _Global History & History & Economics — R · QGIS · Archival Research_
 
 - [CV (PDF)](cv.pdf){:target="_blank" rel="noopener"}
