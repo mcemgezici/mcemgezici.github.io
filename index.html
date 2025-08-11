@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Mustafa Cem Gezici | Portfolio</title>
+    <style>
+      :root { --fg:#111; --muted:#666; --bg:#fff; --max:880px; }
+      *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--fg);
+      font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
+      header{padding:48px 20px;border-bottom:1px solid #eee}
+      .wrap{max-width:var(--max);margin:0 auto}
+      h1{margin:0 0 6px 0;font-size:32px}
+      nav a{margin-right:16px;color:var(--muted);text-decoration:none}
+      section{padding:32px 20px;border-bottom:1px solid #f1f1f1}
+      h2{margin:0 0 16px 0;font-size:20px}
+      ul{margin:0;padding-left:18px}
+      .muted{color:var(--muted)}
+      a{color:inherit}
+      footer{padding:24px 20px;color:var(--muted)}
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Mustafa Cem Gezici</h1>
+        <div class="muted">Global History & History & Economics • R · QGIS · Archival Research</div>
+        <nav>
+          <a href="#about">Hakkımda</a>
+          <a href="#projects">Projeler</a>
+          <a href="#poster">Poster</a>
+          <a href="#contact">İletişim</a>
+          <a href="CV.pdf" target="_blank" rel="noopener">CV (PDF)</a>
+        </nav>
+      </div>
+    </header>
+
+    <section id="about">
+      <div class="wrap">
+        <h2>Hakkımda</h2>
+        <p>Osmanlı ve Akdeniz ekonomik tarihi odaklı yüksek lisans öğrencisiyim. Nicel (R, veri görselleştirme, panel)
+        ve nitel (arşiv) yöntemleri birlikte kullanıyorum; QGIS ile tarihsel haritalama yapıyorum.</p>
+      </div>
+    </section>
+
+    <section id="projects">
+      <div class="wrap">
+        <h2>Seçilmiş Projeler</h2>
+        <ul>
+          <li><strong>Ottoman Port Cities (1830s):</strong> Arşiv kaynaklı veri seti; R ile analiz, QGIS ile harita.</li>
+          <li><strong>Tax Havens or Political Mirages?</strong> Politik ekonomi yaklaşımı; özel veri derlemesi.</li>
+          <li><strong>World Bank – TEK Project:</strong> Kurumsal dönüşümün arşiv ve rapor analizi.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="poster">
+      <div class="wrap">
+        <h2>Poster</h2>
+        <p><em>Internationalism in the 21st Century:</em> UN Güvenlik Konseyi konuşmaları (1990–2023) üzerinde metin analizi.
+        <br><a href="Poster.pdf" target="_blank" rel="noopener">Poster PDF’ini görüntüle</a></p>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="wrap">
+        <h2>İletişim</h2>
+        <p><a href="mailto:mustafacemgezici@windowslive.com">mustafacemgezici@windowslive.com</a> ·
+           <a href="https://github.com/kullaniciadın" target="_blank" rel="noopener">GitHub</a> ·
+           Bayreuth, Germany</p>
+      </div>
+    </section>
+
+    <footer>
+      <div class="wrap">© <span id="y"></span> Mustafa Cem Gezici</div>
+    </footer>
+    <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+  </body>
+</html>
