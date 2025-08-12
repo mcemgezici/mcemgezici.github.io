@@ -15,7 +15,7 @@ _Global History & History & Economics — R · QGIS · Archival Research_
 I am a master's student focusing on Ottoman and Mediterranean economic history. I use both quantitative (R, panel, visualisation) and qualitative (archival) methods; I do historical mapping with QGIS.
 
 ## Outputs
-- CV ve posterime yukarıdaki bağlantılardan erişebilirsiniz.
+- You can access my CV and poster via the links above, and you can access to my certificates via the links below.
 
 - ## Certificates
 - **German Language Certificate (B1)** — Bayreuth University  
