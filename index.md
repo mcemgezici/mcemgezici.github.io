@@ -20,5 +20,5 @@ I am a master's student focusing on Ottoman and Mediterranean economic history. 
 - ## Certificates
 - **German Language Certificate (B1)** — Bayreuth University  
   [View Certificate (PDF)](german-b1-certificate.pdf){:target="_blank" rel="noopener"}
--- **Introduction to Generative AI Certificate** — Google
-   [View Certificate (PDF)](Introduction to Generative AI | Google Cloud Skills Boost.pdf){:target="_blank" rel="noopener"}
+- **Introduction to Generative AI Certificate** — Google  
+  [View Certificate (PDF)](introduction-to-generative-ai-google.pdf){:target="_blank" rel="noopener"}
