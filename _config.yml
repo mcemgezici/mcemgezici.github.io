@@ -2,6 +2,4 @@ title: "Mustafa Cem Gezici"
 description: "Global History & History & Economics — R, QGIS, Archival Research"
 remote_theme: jeffreytse/jekyll-theme-yat
 plugins: [jekyll-remote-theme]
-  # istersen jekyll-theme-minimal veya jekyll-theme-slate de yazabilirsin
-show_downloads: false
 markdown: kramdown
